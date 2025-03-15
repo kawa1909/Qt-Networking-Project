@@ -1,0 +1,27 @@
+# 忽略 Qt 生成的临时文件
+*.pro.user
+*.pro.user.*
+*.pro.sln
+*.pro.suo
+*.qmake.stash
+*.pro.*
+*.qmake.*
+Makefile
+*.o
+*.obj
+*.dll
+*.exe
+*.log
+*.moc
+*.tmp
+*.pch
+*.a
+*.lib
+*.pyc
+*.pyo
+*.swp
+*.swo
+*.sdf
+*.db
+*.cache
+*.qtd
