@@ -1,4 +1,5 @@
-
+# 本项目来自https://www.bilibili.com/video/BV1GW42197ff/?spm_id_from=333.788.player.switch&vd_source=7633e50a1fb7572e00b2e9c42b1b4380&p=120
+# 本人对于项目修改了一些功能，使得此项目更加完善了一些
 5.1.2 开发流程 
 5.1.3 QTtcp服务器的关键流程 
 工程建立，需要在.pro加入网络权限
