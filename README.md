@@ -3,6 +3,9 @@
 # QT版本（5.14.2）
 ## 本项目来自https://www.bilibili.com/video/BV1GW42197ff/?spm_id_from=333.788.player.switch&vd_source=7633e50a1fb7572e00b2e9c42b1b4380&p=120
 ## 5.1.2 开发流程 
+![Client and Server](https://github.com/kawa1909/Qt-Networking-Project/blob/master/images/Client%20and%20Server.png)
+![Clien ui](https://github.com/kawa1909/Qt-Networking-Project/blob/master/images/Client%20ui.png)
+![Server ui](https://github.com/kawa1909/Qt-Networking-Project/blob/master/images/Server%20ui.png)
 ## 5.1.3 QTtcp服务器的关键流程 
 工程建立，需要在.pro加入网络权限创建一个基于 QTcpServer 的服务端涉及以下关键步骤：
 1. 创建并初始化 
