@@ -60,7 +60,7 @@
             <item>
              <widget class="QLineEdit" name="lineEdit_IP">
               <property name="text">
-               <string>172.20.10.2</string>
+               <string/>
               </property>
              </widget>
             </item>
@@ -91,7 +91,7 @@
             <item>
              <widget class="QLineEdit" name="lineEdit_Port">
               <property name="text">
-               <string>8000</string>
+               <string/>
               </property>
              </widget>
             </item>
